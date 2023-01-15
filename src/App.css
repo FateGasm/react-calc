@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+/*entire calculator app area*/
+.CalcFrame {
+  width: 400px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: black;
+}
+
+/*screen- output area*/
+.CalcScreen {
+  color: white;
+  height: 200px;
+  text-align: right;
+  margin-right: 1em;
+  position: relative;
+}
+
+/*output text*/
+.screenOutput {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

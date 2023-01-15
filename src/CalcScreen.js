@@ -1,7 +1,7 @@
 const CalcScreen = () => {
     return ( 
         <div className="CalcScreen">
-            <h2>this is a calcscreen output</h2>
+            <p className="screenOutput">this is a calcscreen output</p>
         </div>
      );
 }
