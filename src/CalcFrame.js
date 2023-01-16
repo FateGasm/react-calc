@@ -1,11 +1,9 @@
-import CalcScreen from "./CalcScreen";
-import CalcButtons from "./CalcButtons";
+import Calculator from "./Calculator";
 
 const CalcFrame = () => {
     return (
         <div className="CalcFrame">
-            <CalcScreen/>
-            <CalcButtons/>
+            <Calculator/>
         </div>
     );
 }

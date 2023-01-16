@@ -4,8 +4,7 @@ import CalcFrame from "./CalcFrame";
 function App() {
   return (
     <div className="App">
-      <CalcFrame/>
-      
+      <CalcFrame/>      
     </div>
   );
 }
